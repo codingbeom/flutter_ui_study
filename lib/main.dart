@@ -1,5 +1,5 @@
-import 'package:firstapp/widgets/button.dart';
-import 'package:firstapp/widgets/card.dart';
+import 'package:flutter_ui_study/widgets/button.dart';
+import 'package:flutter_ui_study/widgets/card.dart';
 import 'package:flutter/material.dart';
 
 void main() {
